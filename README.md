@@ -47,7 +47,7 @@
 </div>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">Where to find me</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -57,13 +57,13 @@
   <a href="https://www.youtube.com/channel/UCUG0tzCy_MYwICReUUquBsw/featured" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="khoadev-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/khoadev" target="blank">
+  <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="khoadev-linkedin" />
   </a>
-  <a href="https://instagram.com/khoadev" target="blank">
+  <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="khoadev-instagram" />
   </a>
-  <a href="mailto:khoadev.official@gmail.com" target="top">
+  <a href="mailto:khoabmt97@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="khoadev-email" />
   </a>
 </div>
