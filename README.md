@@ -34,6 +34,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Ionic-282C34?style=for-the-badge&logo=ionic&logoColor=white" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Capacitor-282C34?style=for-the-badge&logo=Capacitor&logoColor=white" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Cordova-282C34?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
