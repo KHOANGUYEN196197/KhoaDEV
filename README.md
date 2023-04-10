@@ -1,8 +1,12 @@
 <!-- khoadev -->
-<div align="end">
-<a href="https://app.daily.dev/KhoaBugs"><img src="https://api.daily.dev/devcards/455cf7fc744447a186b1e52c9f076a9f.png?r=7t2" width="400" alt="KhoaBugs's Dev Card"/></a>
+<h2 > Contact Info </h2>
+<div align="center">
+  <a href="https://app.daily.dev/KhoaBugs"><img src="https://api.daily.dev/devcards/455cf7fc744447a186b1e52c9f076a9f.png?r=7t2" width="500" alt="KhoaBugs's Dev Card"/>
+</a>
+ <a href="https://app.daily.dev/KhoaBugs"><img src="https://api.daily.dev/devcards/455cf7fc744447a186b1e52c9f076a9f.png?r=7t2" width="400" alt="KhoaBugs's Dev Card"/>
 </div>
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<div>
+<h2 >🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -41,7 +45,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Cordova-282C34?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-
+</div>
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
