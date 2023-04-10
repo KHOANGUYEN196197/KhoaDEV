@@ -1,9 +1,8 @@
 <!-- khoadev -->
-<h2 > Contact Info </h2>
+<h2 > KhoaBugs </h2>
 <div align="center">
   <a href="https://app.daily.dev/KhoaBugs"><img src="https://api.daily.dev/devcards/455cf7fc744447a186b1e52c9f076a9f.png?r=7t2" width="400" alt="KhoaBugs's Dev Card"/>
 </a>
- <a href="https://app.daily.dev/KhoaBugs"><img src="https://api.daily.dev/devcards/455cf7fc744447a186b1e52c9f076a9f.png?r=7t2" width="350" alt="KhoaBugs's Dev Card"/>
 </div>
 <div>
 <h2 >🛠 Technologies and Tools 🛠</h2>
