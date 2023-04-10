@@ -1,4 +1,7 @@
 <!-- khoadev -->
+<div align="end">
+<a href="https://app.daily.dev/KhoaBugs"><img src="https://api.daily.dev/devcards/455cf7fc744447a186b1e52c9f076a9f.png?r=7t2" width="400" alt="KhoaBugs's Dev Card"/></a>
+</div>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
