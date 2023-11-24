@@ -1,4 +1,5 @@
 <!-- khoadev -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 <h2 > KhoaBugs </h2>
 <div align="center">
   <a href="https://app.daily.dev/KhoaBugs"><img src="https://api.daily.dev/devcards/455cf7fc744447a186b1e52c9f076a9f.png?r=7t2" width="400" alt="KhoaBugs's Dev Card"/>
