@@ -78,5 +78,10 @@
   <a href="mailto:khoabmt97@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="khoadev-email" />
   </a>
+  <br>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
 </div>
+
+
+
 
